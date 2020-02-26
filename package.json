@@ -4,5 +4,11 @@
   "description": "Check in kiosk backend for Handshake code challenge.",
   "main": "index.js",
   "author": "Valentino Espinoza <xvalentino13@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prisma": "^1.34.10"
+  },
+  "scripts": {
+    "deploy": "prisma deploy & prisma generate"
+  }
 }

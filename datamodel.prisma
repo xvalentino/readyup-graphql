@@ -1,0 +1,7 @@
+type User {
+  id: ID! @id
+  first_name: String @unique
+  last_name: String!
+  major_id: Int!
+  check_in_time: DateTime
+}
