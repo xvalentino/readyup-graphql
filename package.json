@@ -1,0 +1,8 @@
+{
+  "name": "check-in-kiosk-node",
+  "version": "1.0.0",
+  "description": "Check in kiosk backend for Handshake code challenge.",
+  "main": "index.js",
+  "author": "Valentino Espinoza <xvalentino13@gmail.com>",
+  "license": "MIT"
+}
