@@ -2,7 +2,9 @@
 
 ## API
 
-Link to Prisma docs
+This repo uses a Prisma backed API.
+[prisma](https://www.prisma.io/docs/understand-prisma/)
+[writing migrations in prisma](https://www.prisma.io/docs/get-started/02-change-data-model-JAVASCRIPT-c001/)
 depends on docker + node
 
 Setup locally with `docker-compose up -d`
