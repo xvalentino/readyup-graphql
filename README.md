@@ -1,5 +1,27 @@
 # Handshake Code Challenge Graphql Boilerplate
 
+## Quickstart
+
+Start Prisma + Postgres API
+
+```
+docker-compose up -d
+```
+
+Deploy Prisma schema
+
+```
+yarn deploy
+```
+
+Serve the front end
+
+```
+yarn start
+```
+
+Go to http://localhost:1234
+
 ## API
 
 This repo uses a Prisma backed API.
